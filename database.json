@@ -1,0 +1,30 @@
+{
+  "customers": [
+    {
+      "account_number": "5280209417",
+      "first_name": "aina",
+      "last_name": "toyin",
+      "email": "ty@gmail.com",
+      "pin": "9090",
+      "balance": 8999550.0
+    },
+    {
+      "account_number": "6140603558",
+      "first_name": "fola",
+      "last_name": "mosaku",
+      "email": "fola@gmail.com",
+      "pin": "7799",
+      "balance": 6345800.0
+    }
+  ],
+  "agents": [
+    {
+      "account_number": "2403151859",
+      "first_name": "shola",
+      "last_name": "oginni",
+      "email": "sola@gmail.com",
+      "pin": "1234",
+      "balance": 4999650.0
+    }
+  ]
+}
